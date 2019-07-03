@@ -6,3 +6,7 @@
 /package-lock.json
 /tmp
 node_modules
+tags
+tags.lock
+tags.temp
+
