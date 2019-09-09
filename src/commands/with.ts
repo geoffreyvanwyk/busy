@@ -1,4 +1,5 @@
-import {Command, flags} from '@oclif/command'
+import { Command } from '@oclif/command'
+import * as fs from 'fs';
 
 export default class With extends Command {
   static description = 'Starts the timer for the task of which the title is passed as the first argument.'
